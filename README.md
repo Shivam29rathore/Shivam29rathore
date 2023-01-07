@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivam29rathore
-- 👀 I’m interested in Development ,Data Engineering , Data Science and Machine Learning, Big Data.
-- 🌱 I’m currently learning cloud infrastructures like GCP.
+- 👀 I’m interested in Development ,Data Engineering , Data Science and Machine Learning, Big Data & NLP
+- 🌱 I am currently working on transformers
 - 💞️ I’m looking to collaborate on Timeseries stack(TICK).
 - 📫 How to reach me :
 EmailId - shivam.29.rathore@gmail.com
